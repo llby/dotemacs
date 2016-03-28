@@ -1,6 +1,8 @@
 (source gnu)
 (source melpa)
 
+(depends-on "ac-dabbrev")
+(depends-on "auto-complete")
 (depends-on "codic")
 (depends-on "coffee-mode")
 (depends-on "exec-path-from-shell")
