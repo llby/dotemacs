@@ -1,6 +1,6 @@
 (setq default-frame-alist
-      (append '((width                . 85)  ; フレーム幅
-                (height               . 38 ) ; フレーム高
+      (append '((width                . 180)  ; フレーム幅
+                (height               . 40 ) ; フレーム高
              ;; (left                 . 70 ) ; 配置左位置
              ;; (top                  . 28 ) ; 配置上位置
                 (line-spacing         . 0  ) ; 文字間隔
@@ -11,7 +11,7 @@
                 (vertical-scroll-bars . 1  ) ; スクロールバー
                 (scroll-bar-width     . 17 ) ; スクロールバー幅
                 (cursor-type          . box) ; カーソル種別
-                (alpha                . 100) ; 透明度
+                (alpha                . 85) ; 透明度
                 ) default-frame-alist) )
 (setq initial-frame-alist default-frame-alist)
 
