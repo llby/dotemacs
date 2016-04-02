@@ -1,5 +1,5 @@
 (setq default-frame-alist
-      (append '((width                . 180)  ; フレーム幅
+      (append '((width                . 170)  ; フレーム幅
                 (height               . 40 ) ; フレーム高
              ;; (left                 . 70 ) ; 配置左位置
              ;; (top                  . 28 ) ; 配置上位置
