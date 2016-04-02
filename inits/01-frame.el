@@ -14,3 +14,6 @@
                 (alpha                . 100) ; 透明度
                 ) default-frame-alist) )
 (setq initial-frame-alist default-frame-alist)
+
+(setq frame-title-format
+      '("emacs " emacs-version (buffer-file-name " - %f")))
