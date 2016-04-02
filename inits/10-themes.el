@@ -4,6 +4,9 @@
 ;;(load-theme 'misterioso t)
 (load-theme 'zenburn t)
 ;;(require 'solarized)
+;; (load-theme 'solarized-light t)
+;; (load-theme 'solarized-dark t)
+;;(load-theme 'gnupack-dark t)
 
 ;;(deftheme solarized-light "The light variant of the Solarized colour theme")
 ;;(create-solarized-theme 'light 'solarized-light)
